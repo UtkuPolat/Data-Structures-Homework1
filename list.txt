@@ -1,0 +1,10 @@
+Ankara Cankaya 232 1450 134
+Ankara Golbasi 105 230 550
+Ankara Yenimahalle 110 100 50
+Istanbul Adalar 152 18 2500
+Istanbul Atasehir 150 180 220
+Istanbul Avcilar 144 250 555
+Izmir Aliaga 120 151 215
+Izmir Buca 551 1651 115
+Izmir Bornova 651 653 656 
+
